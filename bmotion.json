@@ -1,0 +1,9 @@
+{
+    "model": "SistemaPorto.mch",
+    "id": "porto",
+    "name": "Porto visualization",
+    "template": "porto.html",
+    "autoOpen": [
+        "Events"
+    ]
+}

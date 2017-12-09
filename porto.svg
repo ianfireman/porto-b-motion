@@ -1,0 +1,27 @@
+<svg width="700" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="502" width="702" y="-1" x="-1"/>
+ </g>
+
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_13" height="555" width="823" y="-16.5" x="-45.5" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#63c5d2"/>
+  <rect fill="#B8D078" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="512.5" y="-0.5" width="264" height="531" id="svg_3" stroke="#000"/>
+  <rect stroke="#000" id="svg_1" height="456.99999" width="146" y="21.5" x="534.5" stroke-width="1.5" fill="#DDDDDD"/>
+  <rect id="pier_1" height="22" width="195" y="54.5" x="339.5" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#CC7C65"/>
+  <rect id="svg_7" height="22" width="195" y="302.47575" x="339.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <rect id="pier_3" height="22" width="195" y="303.47575" x="340.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#CC7C65"/>
+  <rect id="svg_10" height="90.00001" width="140.99999" y="11.5" x="5.5" stroke-opacity="null" stroke-width="1.5" fill="#DDDDDD" stroke="#000"/>
+  <image xlink:href="shipclean.png" id="ship_1" height="143.85715" width="159" y="107.5" x="37.5"/>
+  <image xlink:href="empty.png" id="user_1" height="48" width="55" y="43.26305" x="16.5"/>
+  <image xlink:href="empty.png" id="user_2" height="48" width="55" y="44.22005" x="81.53076"/>
+  <image xlink:href="shipclean.png" id="ship_2" height="143.85715" width="159" y="290.5" x="37.5"/>
+  <image visibility="hidden" x="427.5" y="120.5" width="29" height="13" id="container_1" xlink:href="container_1.png"/>
+  <image visibility="hidden" x="397.5" y="113.5" width="29" height="13" id="container_2" xlink:href="container_2.png"/>
+  <image visibility="hidden" x="427.5" y="368.5" width="29" height="13" id="container_3" xlink:href="container_1.png"/>
+  <image visibility="hidden" x="397.5" y="361.5" width="29" height="13" id="container_4" xlink:href="container_2.png"/>
+  <image visibility="hidden" xlink:href="recepcionado.png" id="status_1" height="29" width="43" y="150.5" x="454.5"/>
+  <image visibility="hidden" xlink:href="recepcionado.png" id="status_2" height="29" width="43" y="399.4623" x="454.5"/>
+ </g>
+</svg>
